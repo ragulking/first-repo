@@ -1,0 +1,4 @@
+intro to data frames 
+df= pd.datafraes{[1,2,3],[1,4,5,6]}
+multiple dty
+df.head() #
